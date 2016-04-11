@@ -1,4 +1,4 @@
-FROM cedille/debian
+FROM clubcedille/debian
 
 MAINTAINER Michael Faille <michael@faille.io>
 
